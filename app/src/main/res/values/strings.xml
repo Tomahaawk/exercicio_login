@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="connection_error">Falha na conexão!</string>
+    <string name="invalid_request_error">Falha na requisição!</string>
+    <string name="invaid_response_error">JSON inválido!</string>
+    <string name="invalid_pwd_error">Senha inválida!</string>
+    <string name="invalid_username_error">Usuário inválido!</string>
+    <string name="required_field_error">Campo obrigatório.</string>
+
+</resources>
